@@ -8,7 +8,7 @@
         <div class="card mt-4">
             <div class="card-header">
                 <h4>View Category 
-                    <a href="{{ url('admin/Add-category') }}" class="btn btn-primary btn-sm float-end">Add
+                    <a href="{{ url('admin/add-category') }}" class="btn btn-primary btn-sm float-end">Add
                         Category</a>
                 </h4>
             </div>

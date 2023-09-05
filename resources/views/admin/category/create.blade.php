@@ -62,7 +62,7 @@
                         <label>Status</label>
                         <input type="checkbox" name="status">
                     </div>
-                    <div class="col-md-6">
+                    <div class="col-md-6 d-flex justify-content-end">
                         <button type="submit" class="btn btn-primary">Save Category</button>
                     </div>
                 </div>

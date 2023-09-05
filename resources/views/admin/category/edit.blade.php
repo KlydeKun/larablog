@@ -65,7 +65,7 @@
                         <label>Status</label>
                         <input type="checkbox" name="status" {{ $category->status == '1' ? 'checked' : '' }} >
                     </div>
-                    <div class="col-md-6">
+                    <div class="col-md-6 d-flex justify-content-end">
                         <button type="submit" class="btn btn-primary">Update Category</button>
                     </div>
                 </div>
